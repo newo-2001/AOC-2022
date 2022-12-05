@@ -9,7 +9,9 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Day 2", "Day 2\Day 2.fsproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 3", "Day 3\Day 3.csproj", "{A3BC5DC4-AA3D-4EF2-8E71-522CE98F7412}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Day 4", "Day 4\Day 4.fsproj", "{6875DC3B-9313-47FB-B039-9D0AFB2C27F4}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Day 4", "Day 4\Day 4.fsproj", "{6875DC3B-9313-47FB-B039-9D0AFB2C27F4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day 5", "Day 5\Day 5.vcxproj", "{31C44528-7887-4621-A711-8E691E4B38FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,18 @@ Global
 		{6875DC3B-9313-47FB-B039-9D0AFB2C27F4}.Release|x64.Build.0 = Release|Any CPU
 		{6875DC3B-9313-47FB-B039-9D0AFB2C27F4}.Release|x86.ActiveCfg = Release|Any CPU
 		{6875DC3B-9313-47FB-B039-9D0AFB2C27F4}.Release|x86.Build.0 = Release|Any CPU
+		{31C44528-7887-4621-A711-8E691E4B38FD}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{31C44528-7887-4621-A711-8E691E4B38FD}.Debug|Any CPU.Build.0 = Debug|x64
+		{31C44528-7887-4621-A711-8E691E4B38FD}.Debug|x64.ActiveCfg = Debug|x64
+		{31C44528-7887-4621-A711-8E691E4B38FD}.Debug|x64.Build.0 = Debug|x64
+		{31C44528-7887-4621-A711-8E691E4B38FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{31C44528-7887-4621-A711-8E691E4B38FD}.Debug|x86.Build.0 = Debug|Win32
+		{31C44528-7887-4621-A711-8E691E4B38FD}.Release|Any CPU.ActiveCfg = Release|x64
+		{31C44528-7887-4621-A711-8E691E4B38FD}.Release|Any CPU.Build.0 = Release|x64
+		{31C44528-7887-4621-A711-8E691E4B38FD}.Release|x64.ActiveCfg = Release|x64
+		{31C44528-7887-4621-A711-8E691E4B38FD}.Release|x64.Build.0 = Release|x64
+		{31C44528-7887-4621-A711-8E691E4B38FD}.Release|x86.ActiveCfg = Release|Win32
+		{31C44528-7887-4621-A711-8E691E4B38FD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
